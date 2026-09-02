@@ -11,12 +11,11 @@
 
 ### 🚀 About Me
 
-I'm a FullStack Developer and Team Leader based in Guadalajara, Jalisco, currently splitting my time between:
+I'm a FullStack Developer and Team Leader based in Guadalajara, Jalisco.
 
-- 🏗️ **Tech Lead @ [Neostella](https://neostella.com)** — leading a greenfield Data Warehouse build, custom AI agent tooling, and multi-environment CI/CD.
-- ☁️ **AWS FullStack Developer @ IBM** — building serverless Java backends with Event Sourcing and DynamoDB.
+- 🏗️ **Tech Lead @ Neostella** — leading a greenfield Data Warehouse build, custom AI agent tooling, and multi-environment CI/CD.
 
-Before that, I led development teams at **iNBest** and **Bradescard**, shipping everything from Gen-AI chat interfaces to legacy-to-SQL migrations and CRM platforms from scratch.
+Previously, I was an AWS FullStack Developer at **IBM**, building serverless Java backends with Event Sourcing and DynamoDB, and before that I led development teams at **iNBest** and **Bradescard**, shipping everything from Gen-AI chat interfaces to legacy-to-SQL migrations and CRM platforms from scratch.
 
 - 🎓 Bachelor of Computer Science — Tecnológico de Monterrey (2023)
 - 🌎 Spanish (native) · English (B2)
